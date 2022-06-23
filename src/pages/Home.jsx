@@ -12,8 +12,7 @@ function Home() {
 
   const { pathname, search } = useLocation();
   const {push} = useNavigate();
-  console.log(push)
-  console.log(pathname, search )
+  
 
   const handleSearch = (str) => {
     setFilteredCatalog(
