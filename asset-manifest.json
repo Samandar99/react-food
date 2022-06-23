@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Samandar99/react-food/static/css/main.33818c40.css",
+    "main.js": "/Samandar99/react-food/static/js/main.bf639418.js",
+    "index.html": "/Samandar99/react-food/index.html",
+    "main.33818c40.css.map": "/Samandar99/react-food/static/css/main.33818c40.css.map",
+    "main.bf639418.js.map": "/Samandar99/react-food/static/js/main.bf639418.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.33818c40.css",
+    "static/js/main.bf639418.js"
+  ]
+}
